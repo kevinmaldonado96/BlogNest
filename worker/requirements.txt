@@ -1,0 +1,4 @@
+python-dotenv
+celery
+psycopg2-binary
+sqlalchemy

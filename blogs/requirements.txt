@@ -1,0 +1,10 @@
+django
+psycopg2-binary
+python-dotenv
+djangorestframework
+djangorestframework_simplejwt
+validate-email-address
+Pillow
+django-storages
+drf-spectacular
+celery
